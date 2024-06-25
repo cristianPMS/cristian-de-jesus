@@ -1,8 +1,12 @@
 archivo local de prueba1
 <<<<<<< HEAD
+<<<<<<< HEAD
 agregar linea local 2 
 =======
 jorgiiiiiiiiiiiiiiiiii
 >>>>>>> ebf95bf66f3147f852fe08d9b7ea81cb32516a06
 
 cuarta linea
+=======
+tercera modificacion 
+>>>>>>> 4f9290e8c93c389041f5c9dd2a4f148846c615b1
